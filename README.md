@@ -1,2 +1,3 @@
-# manifests
-Manifests used in this organisation
+# Artifacts
+
+Artifacts used in this organisation.
